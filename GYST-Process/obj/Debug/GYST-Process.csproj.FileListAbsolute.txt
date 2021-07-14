@@ -1,0 +1,6 @@
+C:\Users\yourt\RiderProjects\GYST-Process\GYST-Process\bin\Debug\GYST_Process.exe
+C:\Users\yourt\RiderProjects\GYST-Process\GYST-Process\bin\Debug\GYST_Process.pdb
+C:\Users\yourt\RiderProjects\GYST-Process\GYST-Process\obj\Debug\GYST-Process.csprojAssemblyReference.cache
+C:\Users\yourt\RiderProjects\GYST-Process\GYST-Process\obj\Debug\GYST-Process.csproj.CoreCompileInputs.cache
+C:\Users\yourt\RiderProjects\GYST-Process\GYST-Process\obj\Debug\GYST_Process.exe
+C:\Users\yourt\RiderProjects\GYST-Process\GYST-Process\obj\Debug\GYST_Process.pdb
